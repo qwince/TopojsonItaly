@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "sub_ita": {
+        "sub": {
             "type": "GeometryCollection",
             "crs": {
                 "type": "name",
