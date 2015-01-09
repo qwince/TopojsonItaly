@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "sub_veneto": {
+        "sub": {
             "type": "GeometryCollection",
             "crs": {
                 "type": "name",
