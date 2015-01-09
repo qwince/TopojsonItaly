@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "sub_friuli": {
+        "sub": {
             "type": "GeometryCollection",
             "crs": {
                 "type": "name",
