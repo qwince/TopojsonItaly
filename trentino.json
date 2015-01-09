@@ -14,6 +14,7 @@
                 "properties": {
                     "name": "BOLZANO/BOZEN"
                 },
+                "id": 21,
                 "arcs": [
                     [0, 1]
                 ]
@@ -22,6 +23,7 @@
                 "properties": {
                     "name": "TRENTO"
                 },
+                "id": 22,
                 "arcs": [
                     [-1, 2]
                 ]

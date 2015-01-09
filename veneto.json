@@ -14,6 +14,7 @@
                 "properties": {
                     "name": "BELLUNO"
                 },
+                "id": 25,
                 "arcs": [
                     [0, 1, 2]
                 ]
@@ -22,6 +23,7 @@
                 "properties": {
                     "name": "VERONA"
                 },
+                "id": 23,
                 "arcs": [
                     [3, 4, 5, 6]
                 ]
@@ -30,6 +32,7 @@
                 "properties": {
                     "name": "VICENZA"
                 },
+                "id": 24,
                 "arcs": [
                     [-2, 7, 8, -4, 9]
                 ]
@@ -38,6 +41,7 @@
                 "properties": {
                     "name": "ROVIGO"
                 },
+                "id": 29,
                 "arcs": [
                     [-6, 10, 11, 12]
                 ]
@@ -46,6 +50,7 @@
                 "properties": {
                     "name": "TREVISO"
                 },
+                "id": 26,
                 "arcs": [
                     [13, 14, 15, -8, -1]
                 ]
@@ -54,6 +59,7 @@
                 "properties": {
                     "name": "VENEZIA"
                 },
+                "id": 27,
                 "arcs": [
                     [-12, 16, -15, 17]
                 ]
@@ -62,6 +68,7 @@
                 "properties": {
                     "name": "PADOVA"
                 },
+                "id": 28,
                 "arcs": [
                     [-17, -11, -5, -9, -16]
                 ]
